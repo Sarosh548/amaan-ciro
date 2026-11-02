@@ -1,4 +1,4 @@
-# Amaan CIRO — Project Vision & Scope
+# CrisisLens — Project Vision & Scope
 
 ## One-Line Description
 
@@ -56,3 +56,9 @@ Most crisis systems are dashboards that show what happened. Amaan is an intellig
 | Web Command Dashboard (Vercel) | [amaan-ciro-web.vercel.app](https://amaan-ciro-web.vercel.app) |
 | Backend API & Swagger (Cloud Run) | [amaan-ciro-...run.app/docs](https://amaan-ciro-485623882730.asia-south1.run.app/docs) |
 | Android APK | `src/mobile/android/app/build/outputs/apk/debug/app-debug.apk` |
+
+---
+
+## Project Provenance
+
+CrisisLens is a customized fork of [Amaan CIRO](https://github.com/hammadqaiser/amaan-ciro), originally created by [hammadqaiser](https://github.com/hammadqaiser). This document describes the inherited project scope; independently implemented changes should be documented separately.
