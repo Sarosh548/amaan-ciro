@@ -1,4 +1,7 @@
-# Amaan CIRO
+# CrisisLens — Crisis Intelligence & Response Orchestrator
+
+> **Project provenance:** This repository is a customized fork of [Amaan CIRO](https://github.com/hammadqaiser/amaan-ciro), originally created by [hammadqaiser](https://github.com/hammadqaiser). The upstream project and its commit history remain the foundation of this codebase. This fork is being independently customized; original authorship and applicable rights are respected.
+
 
 Real-time Multi-agent Crisis Intelligence & Response Orchestrator (CIRO) for urban crisis detection, resource allocation, and coordinated emergency response for Islamabad city. 
 
