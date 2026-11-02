@@ -1,4 +1,4 @@
-# Amaan CIRO — Backend
+# CrisisLens — Backend
 
 FastAPI + LangGraph multi-agent orchestration engine for the Amaan CIRO crisis response system.
 
@@ -96,3 +96,6 @@ gcloud run deploy amaan-ciro --source . --region asia-south1 --allow-unauthentic
 ```
 
 Production API: [amaan-ciro-485623882730.asia-south1.run.app/docs](https://amaan-ciro-485623882730.asia-south1.run.app/docs)
+
+
+> This backend is part of the CrisisLens customized fork of [Amaan CIRO](https://github.com/hammadqaiser/amaan-ciro). See the root README for project provenance.
